@@ -7,7 +7,7 @@
   
   </a>
 
-  <h1 align="center">Mongo Application deployemnt on Kubernetes</h1>
+  <h1 align="center">Mongo Application deployment on Kubernetes</h1>
 
   <p align="center">
     Application deployment of Mongo and Mongo-express serives on Kubernetes
